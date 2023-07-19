@@ -1,0 +1,13 @@
+.heading1{
+    color:hsl(248, 64%, 62%);
+    background-color: hsl(307, 63%, 71%);
+    margin-bottom:10px ;
+    padding: 10px;
+    border-top-width:10px ;
+    border-bottom-width:10px ;
+border-top-style:solid;
+border-bottom-style:solid ;
+border-top-color: hsl(169, 59%, 25%); 
+border-bottom-color: hsl(169, 59%, 25%);
+border-radius:5px ;
+}
